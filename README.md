@@ -2,7 +2,7 @@
 
 This model has three states; Horizontal position(x1), vertical position(x2), as well as orientation(x3). The inputs were considered; the forward velocity(v1) and angular velocity(v2).
 
-Below are the differential equations used in the mode which defined the relationship between State, Input, and Output 
+Below are the differential equations used in the model which defined the relationship between State, Input, and Output 
 
 x1dot=v1 sin(x3)
 
